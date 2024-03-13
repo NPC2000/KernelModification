@@ -1,6 +1,6 @@
 # KernelModification
 
-基于Redmi Note11项目源码配合改机策略所做的内核层函数修改
+基于[Redmi Note11项目](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/selene-r-oss)源码配合改机策略所做的内核层函数修改
 
 - maps展示内容特征修改
     - fs/proc/task_mmu.c->show_map_vma()
